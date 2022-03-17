@@ -1,0 +1,7 @@
+public class Sam
+{
+public void demo()
+{
+System.out.println("Congratulations");
+}
+}
